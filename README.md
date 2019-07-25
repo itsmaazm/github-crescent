@@ -4,3 +4,4 @@ This is for the purpose of learning git.
 Firts add 
 Second Add
 Third Add
+This addition from local repo
